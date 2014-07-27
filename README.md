@@ -8,7 +8,7 @@ unfinnished somehow still can be example for starting and can fun to play.
 
 
 
-Türkçe <br>
+Türkçe <br><hr>
 Bu proje okul/öğrenme amaçlı bir okul projesi olarak hazırlanmıştır. Bu git tüm kaynağı içermektedir(kodlar ve grafikler). Tam bitmiş
 olmamasına rağmen örnek olarak kullanılabilir, oynarken eğlenilebilir.
 
