@@ -4,8 +4,8 @@
 Solo and small game project
 
 English <br><hr>
-This is a small project for school/learning Unity3D Game project. This git include whole source(codes,graphics etc.). This game is
-unfinnished somehow still can be example for starting and can fun to play.
+This is a small project for school/learning Unity3D Game project. This git includes whole source(codes,graphics etc.). This game is
+unfinnished somehow still can be example for starting and playing for some.
 
 
 
