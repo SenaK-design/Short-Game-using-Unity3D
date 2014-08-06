@@ -16,3 +16,8 @@ Herhangi bir öneri ya da sorunuz için çekinmeden iletişeme geçebilirsiniz y
 
 
 Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
+<br><br>
+
+<hr>
+Script Language:C#
+Platform:Unity3D
