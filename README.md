@@ -19,5 +19,5 @@ Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
 <br><br>
 
 <hr>
-Script Language:C#
-Platform:Unity3D
+Script Language:C#<br>
+Platform:Unity3D<br>
